@@ -36,7 +36,7 @@ If you have any questions or would like to discuss a potential collaboration, pl
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as AWs data engineer<br>- 📚 I'm currently learning Devops<br>- ⚡ In my free time I read books like self improvement</p>
+
 
 ###
 
