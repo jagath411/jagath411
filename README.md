@@ -38,7 +38,7 @@ If you have any questions or would like to discuss a potential collaboration, pl
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Devops<br>- ⚡ In my free time I read books like self improvement</p>
+<p align="left"><br>- 🔭 I’m working as AWs data engineer<br>- 📚 I'm currently learning Devops<br>- ⚡ In my free time I read books like self improvement</p>
 
 ###
 
@@ -55,7 +55,7 @@ If you have any questions or would like to discuss a potential collaboration, pl
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=OSpHUHUw&id=533828F2F7239AEBA3C76BF6D8A4CAD76FC7E1FB&thid=OIP.OSpHUHUwvofjQNe7AJZ9eQHaEo&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp7250277.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.392a47507530be87e340d7bb00967d79%3frik%3d%252b%252bHHb9fKpNj2aw%26pid%3dImgRaw%26r%3d0&exph=2400&expw=3840&q=Java+Logo+HD&simid=608024235630081360&FORM=IRPRST&ck=242D1EFAFD6F4674E8CF2701B81FB572&selectedIndex=4" height="40" alt="java"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
